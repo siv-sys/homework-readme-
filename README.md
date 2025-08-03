@@ -59,7 +59,7 @@ http://localhost:3000/api
 | POST | /api/students/:id | Login to system |
 | POST |  /api/tudents/:id | Login to system |
 
-## 📜Education
+## 📜 Education
 1. High School
     - Science
         - Math
@@ -86,4 +86,13 @@ http://localhost:3000/api
 - **Authentication Security**
 >Added secure login using bcrypt for password hashing and JWT for session management.
 
-## d
+## 👤 Author
+
+- **Sann Siv**  
+  [GitHub Profile](https://github.com/dashboard)  
+  [LinkedIn Profile](https://lucky-pegasus-c8845a.netlify.app/)
+
+---
+## 🙏 Acknowledgments
+
+- Thanks to teachers, friends, and online tutorials that helped guide the design and development.
