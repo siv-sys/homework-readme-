@@ -42,5 +42,19 @@ To run the server in development mode:
 ```bash
 npm run dev
 ```
-
-![alt text](image-1.png)
+To start the server normally:
+```
+npm start
+```
+Access the API at
+```
+http://localhost:3000/api
+```
+## 📮 API Endpoints
+|Method|Endpoint|Description|
+|------|--------|-----------|
+| POST |  /api/auth/login  | Login to system |
+| POST |   /api/students   | Login to system |
+| POST |   /api/students   | Login to system |
+| POST | /api/students/:id | Login to system |
+| POST |  /api/tudents/:id | Login to system |
