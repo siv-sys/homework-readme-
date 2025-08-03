@@ -29,7 +29,7 @@ A personal web-based portfolio designed to present and highlight an individual�
 
 ![app](https://img.shields.io/badge/Node.js-18.x-cyan) ![app](https://img.shields.io/badge/Express.js-Framework-blue) ![app](https://img.shields.io/badge/MongoDB-Database-lightcyan) ![app](https://img.shields.io/badge/License-MIT-midnightblue)
 
-## ⚙ Basic Tool
+## ⚙ Basic Function
 - HTML
 - CSS 
 - Java Scriipt
@@ -58,3 +58,32 @@ http://localhost:3000/api
 | POST |   /api/students   | Login to system |
 | POST | /api/students/:id | Login to system |
 | POST |  /api/tudents/:id | Login to system |
+
+## 📜Education
+1. High School
+    - Science
+        - Math
+        - Physic
+        - Chemistry
+        - Biology
+        - History
+        - English
+2. University
+    - Web development
+        - UI Design
+        - Frontend Development
+        - Backend Development
+        - Testing
+
+## 🔑 Problem Solving
+
+- **Form Validation Logic**
+>Created a custom input validation system to ensure user data integrity without relying on external libraries.
+- **Responsive Design**
+>Solved layout issues on mobile devices by implementing CSS Flexbox and media queries.
+- **Database Schema Design**
+>Structured MongoDB collections to allow easy linking of users, classes, and attendance records.
+- **Authentication Security**
+>Added secure login using bcrypt for password hashing and JWT for session management.
+
+## d
