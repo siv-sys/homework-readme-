@@ -10,3 +10,37 @@ A personal web-based portfolio designed to present and highlight an individual�
 - [Services](https://lucky-pegasus-c8845a.netlify.app/#services)
 - [Testimonials](https://lucky-pegasus-c8845a.netlify.app/#testimonials)
 - [Contact](https://lucky-pegasus-c8845a.netlify.app/#contact)
+
+## ✨ Features
+- Full-stack developer
+- Back-end developer
+- Front-end developer
+- Software engineer
+- Web developer
+
+## 🛠 Tech Stack
+- **Programming Language:** JavaScript (Node.js)
+- **Runtime:** Node.js
+- **Framework:** Express.js
+- **Database:** MongoDB / Mongoose (or MySQL / Sequelize)
+- **Authentication:** JSON Web Token (JWT)
+- **Environment Management:** dotenv
+- **Testing:** Jest / Mocha (optional)
+
+![app](https://img.shields.io/badge/Node.js-18.x-cyan) ![app](https://img.shields.io/badge/Express.js-Framework-blue) ![app](https://img.shields.io/badge/MongoDB-Database-lightcyan) ![app](https://img.shields.io/badge/License-MIT-midnightblue)
+
+## ⚙ Basic Tool
+- HTML
+- CSS 
+- Java Scriipt
+
+## Screenshot
+![alt text](image.png)
+
+## 🔧 Usage
+To run the server in development mode:
+```bash
+npm run dev
+```
+
+![alt text](image-1.png)
